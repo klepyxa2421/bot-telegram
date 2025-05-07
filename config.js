@@ -5,7 +5,7 @@ const path = require('path');
 // Конфігурація бота
 module.exports = {
   // Токен Telegram бота
-  7860266090:AAF8iDSYlhnFhATLVFPFIb1aKFIQoATyJno: process.env.TELEGRAM_TOKEN,
+  TELEGRAM_TOKEN: process.env.TELEGRAM_TOKEN,
   
   // Spotify API credentials
   SPOTIFY_CLIENT_ID: process.env.SPOTIFY_CLIENT_ID,
